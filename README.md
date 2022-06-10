@@ -17,8 +17,7 @@
  
  
  # Usage
- Train or Test：
-     * main.py
+ Train or Test： main.py
  
  # Refer
  参考基础代码地址：https://github.com/v-mipeng/LexiconAugmentedNER
